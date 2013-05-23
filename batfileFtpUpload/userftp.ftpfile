@@ -1,0 +1,7 @@
+mm
+l[kpfu
+prompt
+cd public_html/csv
+lcd C:\ProductionCNT
+put ProductionCNT.csv
+bye

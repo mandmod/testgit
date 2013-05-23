@@ -1,0 +1,5 @@
+mm
+l[kpfu
+bin
+put C:\ProductionCNT\ProductionCNT.csv
+bye
